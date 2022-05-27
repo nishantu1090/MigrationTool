@@ -28,3 +28,8 @@ python3 index.py
 ```
 in the installation directory.
 Once the execution of the application completes, you can go the MySQL database and see the added tables and data
+
+<br />
+# Workflow
+![Blank diagram](https://user-images.githubusercontent.com/26408013/170790090-41111b91-4ff8-43c9-82a9-b0c183844697.png)
+
